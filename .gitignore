@@ -40,3 +40,4 @@ captures/
 *.jks
 gradlew
 gradlew.bat
+/.idea/
